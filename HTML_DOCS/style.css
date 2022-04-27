@@ -1,7 +1,35 @@
 body{
-    background-image:url("/Images/anger_Hulk.jpg");
+    
+    background-color:antiquewhite;
 }
-
-div.font_size1{
-font-size: large;
+img {
+border: 5px solid #555;
+border-radius: 49%;
+}
+h1{
+    color:rgb(245, 245, 249);
+    text-align:left;
+    font-family: Arial;
+    padding: 10px;
+    background: #1abc9c;
+}
+div.unordered_list{
+    font-size: 25px;
+    color: rgb(15, 15, 130);
+    font-family: Arial;
+}
+.header{
+    padding: 20px;
+    background: #1abc9c;
+    color: white;
+    
+}
+.footer {
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #15b89a;
+    color: rgb(246, 249, 253);
+    text-align: left;
 }
